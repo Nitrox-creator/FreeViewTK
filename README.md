@@ -1,3 +1,5 @@
+https://nitrox-creator.github.io/FreeViewTK
+
 # Pulse Studio — démo statique
 
 Interface de démonstration hébergeable sur GitHub Pages, construite en HTML, CSS et JavaScript sans dépendances ni étape de compilation.
